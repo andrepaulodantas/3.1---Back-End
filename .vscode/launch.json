@@ -5,6 +5,76 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch CopyArray",
+            "request": "launch",
+            "mainClass": "Math.CopyArray",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch loop",
+            "request": "launch",
+            "mainClass": "Math.loop",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch Tamanho",
+            "request": "launch",
+            "mainClass": "basico.Tamanho",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ArrayAprimorado",
+            "request": "launch",
+            "mainClass": "basico.ArrayAprimorado",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Botao",
+            "request": "launch",
+            "mainClass": "basico.Botao",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Contador",
+            "request": "launch",
+            "mainClass": "basico.Contador",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Janela",
+            "request": "launch",
+            "mainClass": "basico.Janela",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Layout",
+            "request": "launch",
+            "mainClass": "basico.Layout",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProgramaSoma",
+            "request": "launch",
+            "mainClass": "basico.ProgramaSoma",
+            "projectName": "java"
+        },
+        {
+            "type": "java",
+            "name": "Launch Porcentagem",
+            "request": "launch",
+            "mainClass": "basico.Porcentagem",
+            "projectName": "java"
+        },
+        {
             "name": "Python: Arquivo Atual",
             "type": "python",
             "request": "launch",
