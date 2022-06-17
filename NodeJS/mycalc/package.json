@@ -1,0 +1,14 @@
+{
+  "name": "mycalc",
+  "version": "1.0.0",
+  "description": "Novas funções matemáticas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "André Araújo",
+  "license": "ISC",
+  "dependencies": {
+    "matematica": "file:../MATH"
+  }
+}

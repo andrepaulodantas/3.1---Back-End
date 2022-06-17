@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Title</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+  </head>
+  <body>
+      TEST
+
+      <script>
+
+      fetch('http://10.13.50.108:5000/', {method: 'post'})
+        .then(res => {
+          return res.text();
+        }).then(html => {
+          console.log(html);
+        })
+      fetch('http://10.13.50.108:5000/', {method: 'put'})
+        .then(res => {
+          return res.text();
+        }).then(html => {
+          console.log(html);
+        })
+      fetch('http://10.13.50.108:5000/', {method: 'delete'})
+        .then(res => {
+          return res.text();
+        }).then(html => {
+          console.log(html);
+        })
+        
+      </script>
+      
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  </body>
+</html>

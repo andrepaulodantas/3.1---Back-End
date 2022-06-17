@@ -1,0 +1,22 @@
+{
+  "name": "matematica",
+  "version": "1.0.0",
+  "description": "Funções Matemáticas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrepaulodantas/3.1---Back-End.git"
+  },
+  "keywords": [
+    "math"
+  ],
+  "author": "André Araújo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrepaulodantas/3.1---Back-End/issues"
+  },
+  "homepage": "https://github.com/andrepaulodantas/3.1---Back-End#readme"
+}
